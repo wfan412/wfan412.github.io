@@ -1,6 +1,8 @@
 <html>
-  
-<title>看不见٩(๑´0`๑)۶</title>
+    <head>
+        <meta charset="utf-8" />
+        <title>看不到看不到</title>
+    </head>  
 <body>
 <h1>紫珞小姐姐:</h1>
 <p>生日快乐（っ╹◡╹)ﾉ❀</p>
